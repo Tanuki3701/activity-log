@@ -1,2 +1,1 @@
-Initial content\n
- 
+Collaborator 2 change: Add feature B

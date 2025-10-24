@@ -1,1 +1,2 @@
 Combined change: Add features A and B
+Collaborator 3 change: Add feature C
